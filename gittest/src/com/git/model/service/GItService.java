@@ -2,7 +2,7 @@ package com.git.model.service;
 
 public class GItService {
 
-	public void searchName() {
+	public void checkTest() {
 		
 	}
 
