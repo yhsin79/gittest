@@ -9,5 +9,8 @@ public class GItService {
 	public void checkTest2() {
 		System.out.println("원격으로 저장하자!");
 	}
+	public void checkTest3() {
+		
+	}
 
 }
